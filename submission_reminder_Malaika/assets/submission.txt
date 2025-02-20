@@ -1,0 +1,10 @@
+Student, Assignment, Submission status
+Lavie Vanessa, Shell Basics, Pending
+Regina Anthony, Mission Journal, Late
+Selena Isimbi, Mission Video, Missed
+Jotham Jabo, Git Amateur, Submitted
+Michaella Kamikazi, E-lab, Missed
+Chinemerem, Shell Navigation, not submitted
+Chiagoziem, Git, submitted
+Divine, Shell Navigation, not submitted
+Anissa, Shell Basics, submitted
