@@ -90,9 +90,3 @@ StudentID|Name|Assignment|DueDate|Status
 
 ## Author
 Malaika
-
-## License
-[Specify your license here]
-
-## Contributing
-[Add contribution guidelines if applicable]
