@@ -32,12 +32,9 @@ echo "#!/bin/bash" > "$dirName/startup.sh"
 echo "Student, Assignment, Submission status" > "$dirName/assets/submission.txt"
 echo "Lavie Vanessa, Shell Basics, Pending" >> "$dirName/assets/submission.txt"
 echo "Regina Anthony, Mission Journal, Late" >> "$dirName/assets/submission.txt"
-echo "Selena Isimbi, Mission Video, Missed" >> "$dirName/assets/submission.txt"
+echo "Selena Isimbi, Mission Video, Not Submitted" >> "$dirName/assets/submission.txt"
 echo "Jotham Jabo, Git Amateur, Submitted" >> "$dirName/assets/submission.txt"
-echo "Michaella Kamikazi, E-lab, Missed" >> "$dirName/assets/submission.txt"
-
-# Configuration file content 
-echo "# Configuration settings for the reminder app" > "$dirName/config/config.env"
+echo "Michaella Kamikazi, E-lab, Not submitted" >> "$dirName/assets/submission.txt"
 
 # Make scripts executable
 chmod u+x "$dirName/App/reminder.sh"
