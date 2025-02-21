@@ -86,7 +86,11 @@ StudentID|Name|Assignment|DueDate|Status
 ## Troubleshooting
 •⁠  ⁠Ensure all scripts have proper execution permissions
 •⁠  ⁠Verify the ⁠ submissions.txt ⁠ file format
-•⁠  ⁠Check configuration settings in ⁠ config.env ⁠
+•⁠  ⁠Check configuration settings in ⁠ config.e
+
+## License
+
+This project is released under the MIT License.
 
 ## Author
 Malaika
